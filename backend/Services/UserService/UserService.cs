@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace backend.Services.UserService
 {
-    public class UserService
+    public class UserService : IUserService
     {
         
     }

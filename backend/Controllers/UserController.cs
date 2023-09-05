@@ -10,6 +10,9 @@ namespace backend.Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
-        
+        [HttpGet]
+        public IActionResult Hello(){
+            return Ok("hello world!!");
+        }
     }
 }

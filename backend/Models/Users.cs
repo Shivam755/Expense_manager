@@ -19,6 +19,7 @@ namespace backend.Models
 
         [Required]
         [EmailAddress]
+        [StringLength(500)]
         public string Email { get; set; }
 
     }
