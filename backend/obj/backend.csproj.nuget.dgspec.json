@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\cloned_projects\\Expense_manager\\backend\\backend.csproj": {}
+  },
+  "projects": {
+    "E:\\cloned_projects\\Expense_manager\\backend\\backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\cloned_projects\\Expense_manager\\backend\\backend.csproj",
+        "projectName": "backend",
+        "projectPath": "E:\\cloned_projects\\Expense_manager\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\shivam.gupta\\.nuget\\packages\\",
+        "outputPath": "E:\\cloned_projects\\Expense_manager\\backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shivam.gupta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\.net sdk 7\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
