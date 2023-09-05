@@ -9,8 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-/obj/project.nuget.cache
-/obj/backend.csproj.nuget.dgspec.json
+obj/project.nuget.cache
+obj/backend.csproj.nuget.dgspec.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
