@@ -4,6 +4,9 @@ abstract class BaseTable {
   late double id;
   late DateTime createdDate;
   late DateTime modifiedDate;
+  static const String idColumn = "id";
+  static const String createdDateColumn = "created_date";
+  static const String modifiedDateColumn = "modified_date";
 
   BaseTable() {
     Uuid uuid = Uuid();

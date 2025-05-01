@@ -1,4 +1,4 @@
-enum CounterPartyType {temporary, permanent}
+enum CounterPartyType {Temporary, Permanent}
 
 CounterPartyType counterPartyTypeFromIndex(int index) {
   if (index < 0 || index >= CounterPartyType.values.length) {
